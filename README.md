@@ -35,5 +35,6 @@ Skills: Node JS / Express / JS /  PostgreSQL / HTML / CSS / C++
 <p align="left">
 <a href="https://www.linkedin.com/in/harsh-gupta-72b32120a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harsh-gupta" height="30" width="40" /></a>
 <a href="https://www.instagram.com/harshg_28/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harsh-gupta" height="30" width="40" /></a>
-
+<p align="left">
 ![Profile views](https://gpvc.arturio.dev/harshgupta1249) 
+ 
