@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi 👋, I'm Harsh Gupta
-##### Full-Stack Web Development Enthusiast
+##### Full-Stack Web Developer
 
 Skills: Node JS / Express / JS /  PostgreSQL / HTML / CSS / C++ 
 <div align="center">
