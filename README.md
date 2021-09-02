@@ -5,7 +5,7 @@
 
 - 🌱 Currently exploring **React & Flutter**
  
-- 🔥  **Web Development && Android Development** Enthusiast
+- 🔥  **Web Development & Android Development** Enthusiast
 
 - 📫 Reach me out at **harshgupta1249@gmail.com**
 
