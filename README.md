@@ -1,7 +1,7 @@
-### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh Gupta
-
+<!-- ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh Gupta -->
+![hARSH GUPTA](https://user-images.githubusercontent.com/78134473/141692174-fdf9eeed-4162-4b14-9f8c-b93dd170ac58.jpg)
+<br><br>
  ## 🙋‍♂️ About Me
-
 
 - 🌱 Currently exploring **React & Flutter**
  
@@ -12,21 +12,23 @@
  <br>
  <h2 align="center">My Skills</h2>
  <p align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/react-native.png"/> </a>   
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-  <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/> </a>
-  <img src="https://img.icons8.com/ios/49/000000/mysql-logo.png"/>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-    <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="express" width="40" height="40"/> </a>
-  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="express" width="40" height="40"/> </a> 
-  <img src="https://img.icons8.com/ios-filled/48/000000/github.png"/>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/52/000000/react-native.png"/> </a>   
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/52/000000/javascript.png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/52/000000/nodejs.png"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="52" height="52"/> </a>
+  <img src="https://img.icons8.com/color/52/000000/mongodb.png"/> 
+  <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50" height="50"/> </a>
+  <img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/css3.png"/> </a>
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a>
+    <a href="" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="express" width="50" height="50"/> </a>
+  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="express" width="52" height="52"/> </a> 
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/git.png"/> </a> 
 </p>
+<br/>
+
 
 
  <p align="center">
@@ -34,6 +36,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="harshgupta1249's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=harshgupta1249&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<br/>
+
  
 <div align="center">
  
