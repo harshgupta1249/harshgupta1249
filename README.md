@@ -1,5 +1,4 @@
 <!-- ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh Gupta -->
-![hARSH GUPTA](https://user-images.githubusercontent.com/78134473/141692174-fdf9eeed-4162-4b14-9f8c-b93dd170ac58.jpg)
 <br><br>
  ## 🙋‍♂️ About Me
 
