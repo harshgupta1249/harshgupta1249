@@ -4,7 +4,7 @@
 <br><br>
  ## 🙋‍♂️ About Me
 
-- 🌱 Currently exploring **React & Flutter**
+- 🌱 Currently exploring **React & Blockchain**
  
 - 🔥  **MERN** Stack Developer
 
