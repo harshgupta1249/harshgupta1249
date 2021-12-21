@@ -4,7 +4,7 @@
 <br><br>
  ## 🙋‍♂️ About Me
 
-- 🌱 Currently exploring **React & Blockchain**
+- 🌱 Exploring various technologies.
  
 - 🔥  **MERN** Stack Developer
 
