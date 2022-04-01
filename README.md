@@ -4,7 +4,7 @@
 <br><br>
  ## 🙋‍♂️ About Me
 
-- 🌱 Currently exploring **Blockchain**
+- 🌱 Currently exploring **Svelte**
  
 - 🔥  **MERN** Stack Developer
 
