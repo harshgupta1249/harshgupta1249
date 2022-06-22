@@ -4,7 +4,7 @@
 <br><br>
  ## 🙋‍♂️ About Me
 
-- 🌱 Currently exploring ****
+- 🌱 Currently exploring **Data Structures and Algorithms**
  
 - 🔥  **MERN** Stack Developer
 
