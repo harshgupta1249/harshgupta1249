@@ -4,7 +4,7 @@
 <br><br>
  ## 🙋‍♂️ About Me
 
-- 🌱 Currently exploring **Svelte**
+- 🌱 Currently exploring ****
  
 - 🔥  **MERN** Stack Developer
 
@@ -54,7 +54,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/kharshgupta1249/github-readme-activity-graph"><img alt="Harsh Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshgupta1249&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
  ![trophy](https://github-profile-trophy.vercel.app/?username=harshgupta1249&row=1&no-bg=true)
 
