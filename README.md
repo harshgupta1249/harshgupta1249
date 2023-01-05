@@ -1,5 +1,6 @@
-<!-- ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh Gupta -->
-![image](https://user-images.githubusercontent.com/78134473/141723751-81250bba-1934-4ca2-9838-e01a9a320766.png)
+<!-- ### <h1 align="center">Hi , I'm Harsh Gupta -->
+![Blue and White Architect LinkedIn Banner (1)](https://user-images.githubusercontent.com/78134473/210769016-394a3d0a-2530-4f3a-b411-d39487bedd9d.png)
+
 
 <br><br>
  ## 🙋‍♂️ About Me
