@@ -1,5 +1,5 @@
 <!-- ### <h1 align="center">Hi , I'm Harsh Gupta -->
-![Blue and White Architect LinkedIn Banner (1)](https://user-images.githubusercontent.com/78134473/210769016-394a3d0a-2530-4f3a-b411-d39487bedd9d.png)
+![Blue and White Architect LinkedIn Banner](https://github.com/harshgupta1249/harshgupta1249/assets/78134473/e5900911-a251-4166-a949-74fe382b74d1)
 
 
 <br><br>
